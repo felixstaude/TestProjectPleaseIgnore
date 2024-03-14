@@ -1,0 +1,12 @@
+CustomModelData:
+
+------------------------------------------
+0001:
+    - Single use Items
+------------------------------------------
+01XX:
+    - Inventory Click Items:
+        - 0100 Island create Item
+        - 0101 Island teleport Item
+------------------------------------------
+

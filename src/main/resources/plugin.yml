@@ -1,0 +1,7 @@
+name: TestProjectPleaseIgnore
+version: '${project.version}'
+main: de.felixstaude.testprojectpleaseignore.main.TestProjectPleaseIgnore
+api-version: '1.20'
+load: STARTUP
+commands:
+  island:
